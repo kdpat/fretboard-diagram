@@ -1,0 +1,1 @@
+Draws an svg diagram of an instrument's fretboard. Users can change the number of strings and frets and provide a callback for when a fret is clicked.
